@@ -1,0 +1,1 @@
+Responsive_Blog_Post_Card
